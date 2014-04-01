@@ -2,7 +2,7 @@
 /* Template Name: About Us Page */
 ?>
 <?php get_header(); ?>
-here
+
 	<div id="inner_wrapper">
 				<div id="inner_top">
 					<div id="inner_logo">
